@@ -3,8 +3,8 @@ def find_element_index(array, value_to_find)
    while counter < array.length do
     array.index(value_to_find)
   end
-  nil 
-  counter += 1
+   counter += 1
+   nil
 end
 
 def find_max_value(array)
