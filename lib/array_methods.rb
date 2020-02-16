@@ -11,7 +11,7 @@
 
 def find_element_index(array, value_to_find)
 
-find.index(value_to_find)
+array.find.index(value_to_find)
 end
 
 
