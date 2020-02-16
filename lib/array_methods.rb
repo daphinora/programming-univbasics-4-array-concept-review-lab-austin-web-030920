@@ -23,6 +23,8 @@ def find_max_value(array)
   winner
 end
 
+# just do the opposite of what you just did--this time keep the smaller number instead of the bigger number. easy peasy! once you figure out one of these you can easily do the other whew
+
 def find_min_value(array)
   loser = array[0]
   array.length.times do |index|
